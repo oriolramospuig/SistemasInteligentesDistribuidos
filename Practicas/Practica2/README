@@ -1,0 +1,7 @@
+
+El codi s'executa amb Python3
+
+S'han d'instalar les següents llibreries:
+    pip install gymnasium seaborn numpy
+
+Les variables constants en majúscules són els hiperparametres que es poden modificar.
